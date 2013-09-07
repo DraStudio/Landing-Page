@@ -1,0 +1,24 @@
+body{
+	background-color: #b8e6ef;
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+	color: #368393;
+	padding: 1em;
+}
+article{
+	background-color: #f5f5e8;
+	padding: 1em;
+	border-radius: .5em;
+}
+a{
+	color: #ffffff;
+}
+article a{
+	color: #ec7228;
+}
+a:hover{
+	color: #ecb028;
+}
+footer{
+	margin-top: 1em;
+	text-align: center;
+}
